@@ -1,0 +1,9 @@
+body {
+  background-color: gray; 
+  color: purple; 
+}
+h1, p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
